@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Konsisten
 - Membuat platform
 - Membuat forum
+- Membuat shop
+- Kolaborasi
